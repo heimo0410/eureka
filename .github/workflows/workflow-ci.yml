@@ -27,8 +27,7 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
         cache: maven
-                - name: Setup Maven
-    - name: Set up MAVEN
+    - name: Setup Maven
         # You may pin to the exact commit or the version.
         # uses: stCarolas/setup-maven@d6af6abeda15e98926a57b5aa970a96bb37f97d1
       uses: stCarolas/setup-maven@v5
