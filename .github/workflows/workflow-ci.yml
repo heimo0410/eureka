@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: heimo0410/heimo0410/.github/workflows/resue.yaml@4fd8e83
+    uses: heimo0410/heimo0410/.github/workflows/resue.yaml@feature/poc
