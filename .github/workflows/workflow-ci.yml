@@ -8,3 +8,5 @@ on:
 jobs:
   call-workflow:
     uses: heimo0410/heimo0410/.github/workflows/resue.yaml@feature/poc
+    with:
+      config-path: 'poc'
